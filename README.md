@@ -16,7 +16,7 @@ $ ./build-and-run.sh getTheFlower
 
 ## Controls and Objective
 - Use <kbd>Spacebar</kbd> to rotate the butterfly
-- Release <kbd>Spacebar</kbd> to let butterfly fly in the direction
+- Release <kbd>Spacebar</kbd> to let butterfly fly in the required direction
 - Avoid the spiders
 - Get The Flower!!
 
