@@ -1,8 +1,9 @@
-# Astar_algorithm_JavaScript
+# Get The Flower
+Bootsector Game using x86
 
-A JavaScript A* algorithm implementation
+## Running The Game
 
-* open index.html to start the program in browser
+* 
 * Edit cols and rows variable value to adjust size of grid on which A* is being done
 * Edit start and end values in line 112 and 113 to specify starting cell and ddestination cell. Currently start is top left and destination is bottom right corner
 
