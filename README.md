@@ -6,7 +6,7 @@ A fun bootsector game using x86
 ### Prequisite for building
 - QEMU (x86_64)
 - NASM
-- 
+
 ### Build & Run
 ```
 $ cd src/
